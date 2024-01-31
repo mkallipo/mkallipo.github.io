@@ -90,7 +90,7 @@ author:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "index.md"
       type: posts
     values:
       layout: single
