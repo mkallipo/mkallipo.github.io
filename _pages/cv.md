@@ -2,6 +2,7 @@
 permalink: /cv/
 title: "Short CV"
 ---
+In sumarry:
 
 ## Professional experience 
 
