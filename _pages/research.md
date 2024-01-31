@@ -1,4 +1,8 @@
-# Research
+---
+permalink: /research/
+title: "Research"
+---
+
 
 I have a background in abstract topology and algebraic combinatorics. 
 My research interests are the following:
