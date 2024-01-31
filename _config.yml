@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Myrto Kallipoliti
-email:
+email: myname@gmail.com
 description: Αθήνα -- Wien -- Bruxelles
 #twitter_username: username
 github_username: mkallipo
@@ -91,14 +91,14 @@ defaults:
   # _posts
   - scope:
       path: "index.md"
-    #  type: pages
+      type: pages
     values:
       layout: single
       author_profile: true
       read_time: false
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
