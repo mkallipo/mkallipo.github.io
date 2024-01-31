@@ -1,10 +1,7 @@
 ---
 permalink: /cv/
-title: "Short CV"
+title: "In summary:"
 ---
-
-
-# In summary:
 
 ## Professional experience 
 
