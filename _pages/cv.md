@@ -1,5 +1,8 @@
+---
 permalink: /cv/
 title: "Short CV"
+---
+
 
 # In summary:
 
