@@ -1,4 +1,8 @@
-# Projects
+---
+permalink: /projects/
+title: "Projects"
+---
+
 
 I use Python (Pandas) for my projects. 
 
