@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Myrto Kallipoliti
+title: Welcome to my webpage
 email: myname@gmail.com
 description: Αθήνα -- Wien -- Bruxelles
 #twitter_username: username
@@ -74,6 +74,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "http:www.linkedin.com/in/myrto-kallipoliti-212716146"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=9zC1stoAAAAJ&hl=en"
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
