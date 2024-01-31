@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: 
+    url: {{ site.baseurl }}/
   - title: "Short CV"
     url: /cv/
   - title: "Projects"
