@@ -10,7 +10,7 @@ title: "Projects"
 - ### Extract data from [ClinVar.](https://www.ncbi.nlm.nih.gov/clinvar/)
 
 - ### Researcher's performance (self-motivated).
-Retrieved data from [OpenAIRE](https://www.openaire.eu).
+  Retrieved data from [OpenAIRE](https://www.openaire.eu).
 
 
 - ### Restaurant feedback (in collaboration with Exclusivi). 
