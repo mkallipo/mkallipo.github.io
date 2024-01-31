@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "Short CV"
+title: "CV"
 ---
 In sumarry:
 
