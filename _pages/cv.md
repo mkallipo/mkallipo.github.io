@@ -5,7 +5,8 @@ title: "Short CV"
 
 ## Professional experience 
 
-- 2023 - now: [OpenAIRE](https://www.openaire.eu).
+- 2023 - now: **Data scientist**.\
+  [OpenAIRE](https://www.openaire.eu).
 
 - 2022 - 2022: **Data scientist**.\
   [Exclusivi](https://exclusivi.com/contactless/).
