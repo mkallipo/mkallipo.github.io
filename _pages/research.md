@@ -12,6 +12,7 @@ My research interests are the following:
 - Bijective combinatorics.
 - Abstract topology
 
+---
 
 # Peer-reviewed publications
 
@@ -55,7 +56,7 @@ My research interests are the following:
 
 - M. Kallipoliti and H. Mühle, [On the Topology of the Cambrian Semilattices](https://link.springer.com/book/10.1007/978-3-319-20155-9), Combinatorial Methods in Topology and Algebra, Springer INdAM Series, Volume 12 (2015), pp. 97-101.
 
-
+---
 
 # Unpublished
 
