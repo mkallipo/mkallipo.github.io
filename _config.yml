@@ -31,10 +31,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mathematician"
+  name   : "Myrto Kallipoliti"
   avatar : "twix.jpg"
-  bio    : "Αθήνα -- Wien -- Bruxelles"
-  location : Brussels / Athens / Mytilene
+  bio    : "I am a mathematician born and raised in Athens, who lived in Vienna and currently resides in Brussels."
+  location : Brussels - Athens - Mytilene
   links:
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
