@@ -34,6 +34,7 @@ author:
   name   : "Mathematician"
   avatar : "twix.jpg"
   bio    : "Αθήνα -- Wien -- Bruxelles"
+  location : Brussels / Athens / Mytilene
   links:
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
@@ -48,7 +49,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mkallipo"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "http:www.linkedin.com/in/myrto-kallipoliti-212716146"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
