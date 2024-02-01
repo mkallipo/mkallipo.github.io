@@ -19,7 +19,7 @@ title: "Short CV"
 - 2011 - 2017: **Postdoctoral researcher**.\
   [Combinatorics group](https://www.mat.univie.ac.at/~kratt/comb.html), [University of Vienna](https://www.univie.ac.at/en/).
 
-- 2010: **Junior research fellow**.
+- 2010: **Junior research fellow**.\
   [Erwin Schrödinger International Inst. for Math. Physics](https://www.esi.ac.at).
 
 ## Education 
