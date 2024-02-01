@@ -5,7 +5,6 @@ I am Myrto, a mathematician holding a Ph.D from the [University of Athens, Greec
 
 I am currently employed by [OpenAIRE](https://www.openaire.eu).
 
-Feel free to contact me through my [LinkedIn page](https://www.linkedin.com/in/myrto-kallipoliti-212716146/).\
 Thank you for visiting.
 
 
