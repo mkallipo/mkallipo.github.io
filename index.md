@@ -5,6 +5,8 @@ I am a mathematician holding a Ph.D from the [University of Athens, Greece](http
 
 I am currently employed by [OpenAIRE](https://www.openaire.eu).
 
+Fell free to contact me through my [LinkedIn](https://www.linkedin.com/in/myrto-kallipoliti-212716146/) page.
+
 Thank you for visiting.
 
 
