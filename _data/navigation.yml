@@ -1,5 +1,5 @@
 main:
-  - title: "Home"
+  - title: "Intro"
     url: /
   - title: "Short CV"
     url: /cv/
