@@ -9,9 +9,7 @@ $link-color: brown;
 @import "minimal-mistakes"; // main partials
 
 .page__content {
-  p,
-  li,
-  dl {
+  p {
     font-size: 1em;
   }
 }
