@@ -40,7 +40,8 @@ author:
   location : Brussels - Athens - Mytilene
   links:
     - label: "Mytilene"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-heart"
+      url: "https://en.wikipedia.org/wiki/Mytilene"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
