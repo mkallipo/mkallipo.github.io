@@ -40,7 +40,7 @@ author:
   location : Brussels - Athens
   links:
     - label: "Mytilene"
-      icon: "fab fa-fw fa-umbrella-beach"
+      icon: "fab fa-umbrella-beach"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mkallipo"
