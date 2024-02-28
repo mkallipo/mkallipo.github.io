@@ -8,7 +8,7 @@ $link-color: brown;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__content {
+.sectionbody {
   p {
     font-size: 1em;
   }
