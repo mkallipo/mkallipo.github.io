@@ -9,7 +9,9 @@ $link-color: brown;
 @import "minimal-mistakes"; // main partials
 
 .sectionbody {
-  p {
+  p,
+  li,
+  dl {
     font-size: 0.75em;
   }
 }
