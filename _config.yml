@@ -36,12 +36,9 @@ plugins:
 author:
   name   : "Myrto Kallipoliti"
   avatar : "twix.jpg"
-  bio    : "Born and raised in Athens, lived in Vienna and currently reside in Brussels."
-  location : Brussels - Athens
+  bio    : "Born and raised in Athens, lived in Vienna and now in Brussels (when not in Greece)."
+  location : Brussels - Athens - Mytilene
   links:
-    - label: "❤️ Mytilene"
-      icon: "❤" 
-      url: "https://en.wikipedia.org/wiki/Mytilene"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mkallipo"
