@@ -16,9 +16,5 @@ title: "Projects"
 
 - **Bakery sales** (in collaboration with Exclusivi). 
 
-- **Chocolate bars** (part of DataCamp Competitions).  
-
-- **Effectiveness of test preparation courses** (part of DataCamp Competitions).  
-  
 
 
