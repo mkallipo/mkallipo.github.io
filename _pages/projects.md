@@ -18,7 +18,7 @@ title: "Projects"
 - **Bakery sales** (in collaboration with Exclusivi). 
 
 - **Chocolate bars** (part of DataCamp Competitions).  
-  Goal:\
+  Goal: 
   Explore if the chocolate bars with the highest ratings share any characteristics that could help narrow the search for suppliers (e.g., cacao percentage, bean country of origin,   etc.)\
   Steps:
   - Organize and clean the data.
@@ -29,12 +29,10 @@ title: "Projects"
     - Continent of the bean: South America, 
     - Ingredients: Beans, Sugar, Cocoa butter, 
     - Cocoa percent: Between 68 and 75. 
-  
-
 
 
 - **Effectiveness of test preparation courses** (part of DataCamp Competitions).  
-  Goal:\
+  Goal: 
   Examine the efficacy of test preparation courses offered by a specific educational institution and delve into the impact of parental education levels on students' test scores.
 
 
