@@ -15,7 +15,7 @@ title: "Short CV"
   [Université Libre de Bruxelles](https://www.ulb.be/en){:target="_blank"}.
 
 - 2018 - 2021: **Career break**.\
-  Children, research, German, coding.
+  Children, research, German, coding, repeat.
  
 - 2011 - 2017: **Postdoctoral researcher**.\
   [Combinatorics group](https://www.mat.univie.ac.at/~kratt/comb.html){:target="_blank"}, [University of Vienna](https://www.univie.ac.at/en/){:target="_blank"}.
