@@ -18,7 +18,7 @@ title: "Short CV"
   Children, research, German, coding, repeat.
  
 - 2011 - 2017: **Postdoctoral researcher**.\
-  [Combinatorics group](https://www.mat.univie.ac.at/~kratt/comb.html){:target="_blank"}, [University of Vienna](https://www.univie.ac.at/en/){:target="_blank"}.
+  [Combinatorics group](https://www.mat.univie.ac.at/~ifischer/papers/group.html){:target="_blank"}, [University of Vienna](https://www.univie.ac.at/en/){:target="_blank"}.
 
 - 2010: **Junior research fellow**.\
   [Erwin Schrödinger International Inst. for Math. Physics](https://www.esi.ac.at){:target="_blank"}.
