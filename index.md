@@ -10,5 +10,5 @@ Feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/myrto-
 Thank you for visiting.
 
 
-[^1]: Deeply grateful to my high-school professor  <span style="color: black; font-weight: bold;">Panagioti Linardaki</span> for his inspiration and motivation. 
+[^1]: Deeply grateful to my high-school professor  **Panagioti Linardaki** for his inspiration and motivation. 
 
