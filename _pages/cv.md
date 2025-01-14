@@ -34,7 +34,7 @@ title: "Short CV"
 - 2006: **Master of Science in Pure Mathematics**.\
   [University of Athens](https://en.uoa.gr){:target="_blank"}.   \
   Thesis: Topological characterization of the plane.  \
-  Supervisor: [P. Papasoglu](https://www.maths.ox.ac.uk/people/panagiotis.papazoglou){:target="_blank"}.
+  Supervisor: [P. Papazoglou](https://www.maths.ox.ac.uk/people/panagiotis.papazoglou){:target="_blank"}.
 
 - 2003: **Diploma in Mathematics**.\
   [University of Athens](https://en.uoa.gr){:target="_blank"}.
