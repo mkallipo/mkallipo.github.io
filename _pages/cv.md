@@ -22,7 +22,7 @@ title: "Short CV"
   [Combinatorics group](https://www.mat.univie.ac.at/~ifischer/papers/group.html){:target="_blank"}, [University of Vienna](https://www.univie.ac.at/en/){:target="_blank"}.
 
 - 2010: **Junior research fellow**.\
-  [Erwin Schrödinger International Inst. for Math. Physics](https://www.esi.ac.at){:target="_blank"}.
+  [Erwin Schrödinger International Institute for Mathematics and Physics](https://www.esi.ac.at){:target="_blank"}.
 
 ## Education 
 
