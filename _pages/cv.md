@@ -14,7 +14,7 @@ title: "Short CV"
 - 2021 - 2022: **Visiting researcher**.\
   [Université Libre de Bruxelles](https://www.ulb.be/en){:target="_blank"}.
 
-- 2018 - 2021: **Career break: children, research, german, coding, repeat.**.\
+- 2018 - 2021: **Career break: children, research, german, coding, repeat**.\
   Neubau, Vienna.
   
  
