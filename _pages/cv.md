@@ -36,7 +36,7 @@ title: "Short CV"
   Thesis: Topological characterization of the plane.  \
   Supervisor: [P. Papasoglu](https://www.maths.ox.ac.uk/people/panagiotis.papazoglou){:target="_blank"}.
 
-- 2003: **Diploma in Mathematics**.
+- 2003: **Diploma in Mathematics**.\
   [University of Athens](https://en.uoa.gr){:target="_blank"}.
 
 
