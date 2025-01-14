@@ -27,17 +27,17 @@ title: "Short CV"
 ## Education 
 
 - 2010: **Ph.D. in Mathematics**.\
-  [University of Athens](https://en.uoa.gr){:target="_blank"}.\
+  [Department of Mathematics](https://en.math.uoa.gr), [University of Athens](https://en.uoa.gr){:target="_blank"}.\
   Thesis: [Combinatorics and Topology of the Absolute Order on a Finite Coxeter Group](https://www.didaktorika.gr/eadd/handle/10442/20671){:target="_blank"}.   \
   Supervisor: [C. A. Athanasiadis](http://users.uoa.gr/~caath/){:target="_blank"}.
 
 - 2006: **Master of Science in Pure Mathematics**.\
-  [University of Athens](https://en.uoa.gr){:target="_blank"}.   \
+   [Department of Mathematics](https://en.math.uoa.gr), [University of Athens](https://en.uoa.gr){:target="_blank"}.   \
   Thesis: Topological characterization of the plane.  \
   Supervisor: [P. Papazoglou](https://www.maths.ox.ac.uk/people/panagiotis.papazoglou){:target="_blank"}.
 
 - 2003: **Diploma in Mathematics**.\
-  [University of Athens](https://en.uoa.gr){:target="_blank"}.
+   [Department of Mathematics](https://en.math.uoa.gr), [University of Athens](https://en.uoa.gr){:target="_blank"}.
 
 
 ## Distinctions
