@@ -58,6 +58,6 @@ My research interests are the following:
 
 ---
 
-# Unpublished
+# Preprints
 
 - M. Kallipoliti and P. Papasoglu, A new topological characterization of the plane.
