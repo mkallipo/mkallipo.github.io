@@ -10,5 +10,5 @@ Feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/myrto-
 Thank you for visiting.
 
 
-[^1]: Deeply grateful to my high-school professor,  **Panagiotis Linardakis**, for inspiring and motivating me. 
+[^1]: Deeply grateful to my high-school teacher,  **Panagiotis Linardakis**, for inspiring and motivating me. 
 
