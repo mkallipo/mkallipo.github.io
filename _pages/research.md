@@ -6,6 +6,7 @@ title: "Research"
 I have a background in abstract topology and algebraic combinatorics. 
 My research interests are the following:
 
+- Digital libraries.
 - Topological data analysis.
 - Pattern avoidance. 
 - Combinatorics and topology of partially ordered sets.
