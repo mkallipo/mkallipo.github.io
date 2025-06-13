@@ -15,8 +15,16 @@ My research interests are the following:
 
 ---
 
-# Peer-reviewed publications
 
+# Preprints
+
+- M. Kallipoliti, S. Chatzopoulos, M. Baglioni, E. Adamidi, P. Koloveas, and T. Vergoulis, [From raw affiliations to organization identifiers](https://arxiv.org/abs/2505.07577){:target="_blank"} (2025)
+
+- M. Kallipoliti and P. Papasoglu, A new topological characterization of the plane.
+
+---
+
+# Peer-reviewed publications
 
 ## Conference proceedings
 
@@ -61,8 +69,3 @@ My research interests are the following:
 
 ---
 
-# Preprints
-
-- M. Kallipoliti, S. Chatzopoulos, M. Baglioni, E. Adamidi, P. Koloveas, and T. Vergoulis, [From raw affiliations to organization identifiers](https://arxiv.org/abs/2505.07577){:target="_blank"} (2025)
-
-- M. Kallipoliti and P. Papasoglu, A new topological characterization of the plane.
