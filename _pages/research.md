@@ -33,7 +33,7 @@ My research interests are the following:
 
 ## Journals
 
-- M. Kallipoliti, R. Sulzgruber and E. Tzanaki, [Patterns in Shi tableaux and Dyck paths](https://link.springer.com/article/10.1007/s11083-021-09573-4){:target="_blank"}, Order (2021).
+- M. Kallipoliti, R. Sulzgruber, and E. Tzanaki, [Patterns in Shi tableaux and Dyck paths](https://link.springer.com/article/10.1007/s11083-021-09573-4){:target="_blank"}, Order (2021).
 
 - M. Kallipoliti and E. Tzanaki, [Bijections between generalized Catalan families of types A and C](https://www.sciencedirect.com/science/article/pii/S0012365X18301602){:target="_blank"}, Discrete Mathematics, Vol. 341, (2018) pp. 248-264.
 
@@ -41,7 +41,7 @@ My research interests are the following:
 
 - M. Kallipoliti and H. Mühle, [The m-Cover Posets and their Applications](https://www.sciencedirect.com/science/article/pii/S0196885815000573){:target="_blank"}, Advances in Applied Mathematics, Vol. 69, (2015) pp.65-108.
 
-- S. Fishel, M. Kallipoliti and E. Tzanaki, [Facets of the Generalized Cluster Complex and Regions in the Extended Catalan Arrangement of Type A](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v20i4p7){:target="_blank"}, Electronic Journal of Combinatorics, Vol. 20, Issue 4, (2013).
+- S. Fishel, M. Kallipoliti, and E. Tzanaki, [Facets of the Generalized Cluster Complex and Regions in the Extended Catalan Arrangement of Type A](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v20i4p7){:target="_blank"}, Electronic Journal of Combinatorics, Vol. 20, Issue 4, (2013).
 
 - M. Kallipoliti and H. Mühle, [On the topology of the Cambrian Semilattices](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v20i2p48){:target="_blank"}, Electronic Journal of Combinatorics, Vol. 20, Issue 2, (2013).
 
@@ -63,6 +63,6 @@ My research interests are the following:
 
 # Preprints
 
-- M. Kallipoliti, S. Chatzopoulos, M. Baglioni, E. Adamidi, P. Koloveas, T. Vergoulis, [From raw affiliations to organization identifiers](https://arxiv.org/abs/2505.07577){:target="_blank"}
+- M. Kallipoliti, S. Chatzopoulos, M. Baglioni, E. Adamidi, P. Koloveas, and T. Vergoulis, [From raw affiliations to organization identifiers](https://arxiv.org/abs/2505.07577){:target="_blank"} (2025)
 
 - M. Kallipoliti and P. Papasoglu, A new topological characterization of the plane.
