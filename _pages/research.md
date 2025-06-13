@@ -17,6 +17,20 @@ My research interests are the following:
 
 # Peer-reviewed publications
 
+
+## Conference proceedings
+
+- M. Kallipoliti and E. Tzanaki, [Bijections of dominant regions in the m-Shi arrangements of type A, B and C](https://dmtcs.episciences.org/2495){:target="_blank"}, in Proceedings of FPSAC 2015, Discr. Math. Theoret. Comput. Science, (2015), pp. 595–606.
+
+- M. Kallipoliti and H. Mühle, [The m-Cover Posets and the Strip-Decomposition of m-Dyck Paths](https://dmtcs.episciences.org/2409){:target="_blank"}, in Proceedings of FPSAC 2014, Discr. Math. Theoret. Comput. Science, (2014), pp. 393–404.
+
+- M. Kallipoliti and H. Mühle, [On the topology of the Cambrian Semilattices](https://dmtcs.episciences.org/2320){:target="_blank"}, in Proceedings of FPSAC 2013, Discr. Math. Theoret. Comput. Science, (2013), pp. 545–556.
+
+- M. Kallipoliti and M. Kubitzke, [Double homotopy Cohen-Macaulayness for the poset of injective words and the classical NC-partition lattice](https://dmtcs.episciences.org/2935){:target="_blank"}, in Proceedings of FPSAC 2011, Discr. Math. Theoret. Comput. Science, (2011), pp. 575-586.
+
+- M. Kallipoliti, [The absolute order on the hyperoctahedral group](https://dmtcs.episciences.org/2689){:target="_blank"}, in Proceedings of FPSAC 2009, Discr. Math. Theoret. Comput. Science, (2009), pp. 503–514.
+
+
 ## Journals
 
 - M. Kallipoliti, R. Sulzgruber and E. Tzanaki, [Patterns in Shi tableaux and Dyck paths](https://link.springer.com/article/10.1007/s11083-021-09573-4){:target="_blank"}, Order (2021).
@@ -40,18 +54,6 @@ My research interests are the following:
 - M. Kallipoliti and P. Papasoglu, [Simply connected homogeneous continua are not separated by arcs](https://www.sciencedirect.com/science/article/pii/S0166864107002416){:target="_blank"}, Topology and its Applications, Vol. 154, Issue 17, (2007), pp. 3039–3047. 
 
 
-## Conference proceedings
-
-- M. Kallipoliti and E. Tzanaki, [Bijections of dominant regions in the m-Shi arrangements of type A, B and C](https://dmtcs.episciences.org/2495){:target="_blank"}, in Proceedings of FPSAC 2015, Discr. Math. Theoret. Comput. Science, (2015), pp. 595–606.
-
-- M. Kallipoliti and H. Mühle, [The m-Cover Posets and the Strip-Decomposition of m-Dyck Paths](https://dmtcs.episciences.org/2409){:target="_blank"}, in Proceedings of FPSAC 2014, Discr. Math. Theoret. Comput. Science, (2014), pp. 393–404.
-
-- M. Kallipoliti and H. Mühle, [On the topology of the Cambrian Semilattices](https://dmtcs.episciences.org/2320){:target="_blank"}, in Proceedings of FPSAC 2013, Discr. Math. Theoret. Comput. Science, (2013), pp. 545–556.
-
-- M. Kallipoliti and M. Kubitzke, [Double homotopy Cohen-Macaulayness for the poset of injective words and the classical NC-partition lattice](https://dmtcs.episciences.org/2935){:target="_blank"}, in Proceedings of FPSAC 2011, Discr. Math. Theoret. Comput. Science, (2011), pp. 575-586.
-
-- M. Kallipoliti, [The absolute order on the hyperoctahedral group](https://dmtcs.episciences.org/2689){:target="_blank"}, in Proceedings of FPSAC 2009, Discr. Math. Theoret. Comput. Science, (2009), pp. 503–514.
-
 
 ## Book chapter
 
@@ -60,5 +62,7 @@ My research interests are the following:
 ---
 
 # Preprints
+
+- M. Kallipoliti, S. Chatzopoulos, M. Baglioni, E. Adamidi, P. Koloveas, T. Vergoulis, [From raw affiliations to organization identifiers](https://arxiv.org/abs/2505.07577){:target="_blank"}
 
 - M. Kallipoliti and P. Papasoglu, A new topological characterization of the plane.
