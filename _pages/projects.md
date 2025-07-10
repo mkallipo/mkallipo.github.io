@@ -4,7 +4,7 @@ title: "Projects"
 ---
 
 
-- **Affiliation matching algorithm [AffRo](https://affro-api.imsi.athenarc.gr/docs){:target="_blank"}.**  
+- **Affiliation matching algorithm AffRo**  
   Map raw affiliation strings to organization persistent identifiers, like ROR IDs.
 
 - **Researcher's performance** (self-motivated).  
