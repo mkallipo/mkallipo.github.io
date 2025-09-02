@@ -18,7 +18,8 @@ I have a background in abstract topology and algebraic combinatorics. I am now f
 # Preprints
 ## Recent 
 
-- 
+-. 
+
 ## From a time long, long ago
 
 - M. Kallipoliti and P. Papasoglu, A new topological characterization of the plane.
