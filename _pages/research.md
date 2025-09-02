@@ -3,8 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-I have a background in abstract topology and algebraic combinatorics. 
-My research interests are the following:
+I have a background in abstract topology and algebraic combinatorics. I am now focusing on data science and digital libraries. Specifically, my research interests include:
 
 - Digital libraries.
 - Topological data analysis.
@@ -18,9 +17,7 @@ My research interests are the following:
 
 # Preprints
 
-- M. Kallipoliti, S. Chatzopoulos, M. Baglioni, E. Adamidi, P. Koloveas, and T. Vergoulis, [From raw affiliations to organization identifiers](https://arxiv.org/abs/2505.07577){:target="_blank"} (2025)
-
-- M. Kallipoliti and P. Papasoglu, A new topological characterization of the plane.
+- M. Kallipoliti and P. Papasoglu, A new topological characterization of the plane (from a time long, long ago).
 
 ---
 
@@ -28,6 +25,8 @@ My research interests are the following:
 
 ## Conference proceedings
 
+- M. Kallipoliti, S. Chatzopoulos, M. Baglioni, E. Adamidi, P. Koloveas, and T. Vergoulis, [From raw affiliations to organization identifiers](https://arxiv.org/abs/2505.07577){:target="_blank"} (TPDL 2025)
+  
 - M. Kallipoliti and E. Tzanaki, [Bijections of dominant regions in the m-Shi arrangements of type A, B and C](https://dmtcs.episciences.org/2495){:target="_blank"}, in Proceedings of FPSAC 2015, Discr. Math. Theoret. Comput. Science, (2015), pp. 595–606.
 
 - M. Kallipoliti and H. Mühle, [The m-Cover Posets and the Strip-Decomposition of m-Dyck Paths](https://dmtcs.episciences.org/2409){:target="_blank"}, in Proceedings of FPSAC 2014, Discr. Math. Theoret. Comput. Science, (2014), pp. 393–404.
